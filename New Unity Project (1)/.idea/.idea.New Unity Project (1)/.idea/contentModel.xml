@@ -6,6 +6,7 @@
     <e p="D:\Repo\new repo1\new repo2\New Unity Project (1)" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="destroy.cs" t="Include" />
         <e p="rotate.cs" t="Include" />
       </e>
       <e p="New Unity Project (1).sln" t="IncludeFlat" />

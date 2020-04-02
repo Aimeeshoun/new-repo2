@@ -56,6 +56,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\destroy.cs" />
      <Compile Include="Assets\rotate.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Repo/new repo1/new repo2/New Unity Project (1)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
