@@ -56,6 +56,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\coin.cs" />
      <Compile Include="Assets\destroy.cs" />
      <Compile Include="Assets\rotate.cs" />
  <Reference Include="Unity.Timeline.Editor">
